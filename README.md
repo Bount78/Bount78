@@ -1,5 +1,9 @@
-# 💫 About Me:
-Je suis un jeune développeur web déterminé et passionné, <br>avec une solide base en développement de sites et d'applications Web.<br>J'ai acquis mes compétences en programmation en suivant des cours en ligne<br>et en réalisant des projets personnels, et je suis maintenant prêt à mettre mes<br>connaissances en pratique dans un environnement professionnel.<br><br>Je suis particulièrement habile en HTML, CSS et JavaScript, et j'ai également<br>une bonne compréhension de PHP et MySQL.<br>Je suis par ailleurs très intéressé par les technologies de l'intelligence artificielle<br>et de l'apprentissage automatique, et j'ai hâte de découvrir de nouvelles technologies<br>et de me tenir au courant des dernières tendances dans le domaine du<br>développement web.<br><br>En tant que jeune développeur, je suis motivé et déterminé à apprendre et à me<br>développer rapidement. Je suis impatient de rejoindre une équipe de développement<br>et de contribuer à des projets stimulants et innovants.
+# 💫 A propos de moi:
+En tant que développeur web passionné et engagé, je suis doté d'une solide connaissance dans la création de sites et applications web innovants. Mes compétences en programmation ont été acquises par le biais de formations en ligne approfondies et la réalisation de projets personnels, me préparant à relever les défis dans un cadre professionnel.
+
+Je possède une maîtrise des langages HTML, CSS et JavaScript, complétée par une compréhension profonde de PHP et MySQL. Ma connaissance s'étend également au framework Symfony, dans lequel j'ai développé une expertise particulière. Mon intérêt pour les technologies de pointe, comme l'intelligence artificielle et l'apprentissage automatique, me permet de rester à l'avant-garde des dernières tendances en matière de développement web.
+
+En tant que professionnel déterminé et ambitieux, je suis prêt à évoluer rapidement, toujours avec l'objectif d'apprendre et de me perfectionner. Je suis désireux d'intégrer une équipe de développement dynamique, où je pourrais apporter ma contribution à des projets stimulants et innovants.
 
 
 ## 🌐 Socials:
